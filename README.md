@@ -1,0 +1,8 @@
+- 🔭 I’m currently working on Frontend Code
+- 🌱 I’m currently learning Frontend Code
+- 👯 I’m looking to collaborate on --
+- 🤔 I’m looking for help with --
+- 💬 Ask me about to make a connection with other languages.
+- 📫 How to reach me: --
+- 😄 Pronouns: --
+- ⚡ Fun fact: I use Copilot usually not Github Copilot.
