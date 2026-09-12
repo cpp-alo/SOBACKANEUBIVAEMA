@@ -5,4 +5,4 @@
 - 💬 Ask me about to make a connection with other languages.
 - 📫 How to reach me: --
 - 😄 Pronouns: --
-- ⚡ Fun fact: I use Copilot usually not Github Copilot.
+- ⚡ Fun fact: I usually use Copilot, not Github Copilot.
